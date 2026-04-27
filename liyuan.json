@@ -1,5 +1,5 @@
 {
-  "spider": "http://饭太硬.top/tv",
+  "spider": "./jar/top98_1.jar",
   "wallpaper": "",
   "logo": "",
   "warningText": "梨园专区",
