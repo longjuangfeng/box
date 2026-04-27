@@ -9,7 +9,7 @@
    
     {
       "key": "儿童",
-      "name": "少儿教育",
+      "name": "儿童教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
