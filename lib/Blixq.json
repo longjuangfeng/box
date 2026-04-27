@@ -1,30 +1,58 @@
 {
 "classes": [
 
-     
+    {
+      "type_name": "超清潮剧",
+      "type_id": "超清潮剧超清"
+    },
+    {
+      "type_name": "潮剧",
+      "type_id": "潮剧超清"
+    },
+    {
+      "type_name": "百花潮剧院",
+      "type_id": "百花潮剧院超清"
+    },
+        {
+      "type_name": "香港潮剧",
+      "type_id": "香港潮剧超清"
+    },
+        {
+      "type_name": "潮剧院",
+      "type_id": "潮剧院超清"
+    },
+       {
+      "type_name": "潮剧团",
+      "type_id": "潮剧团超清"
+    },
+        {
+      "type_name": "潮剧全剧",
+      "type_id": "潮剧全剧超清"
+    }, 
+     {
+      "type_name": "潮剧选段",
+      "type_id": "潮剧选段超清"
+    },
+    {
+      "type_name": "名家潮剧",
+      "type_id": "名家潮剧超清"
+    },
+  
+    {
+      "type_name": "潮汕小品",
+      "type_id": "潮汕小品超清"
+    },
+        {
+      "type_name": "潮汕讲古",
+      "type_id": "潮汕讲古超清"
+    },
     {
       "type_name": "京剧",
       "type_id": "京剧超清"
     },
     {
-      "type_name": "黄梅戏",
-      "type_id": "黄梅戏超清"
-    },
-    {
-      "type_name": "豫剧",
-      "type_id": "豫剧超清"
-    }, 
-    {
       "type_name": "越剧",
       "type_id": "越剧超清"
-    },
-    {
-      "type_name": "评剧",
-      "type_id": "评剧超清"
-    },   
-     {
-      "type_name": "徽剧",
-      "type_id": "徽剧超清"
     },
     {
       "type_name": "蒲剧",
@@ -34,17 +62,30 @@
       "type_name": "眉户",
       "type_id": "眉户超清"
     },
-    {
+        {
       "type_name": "吕剧",
       "type_id": "吕剧超清"
     },
-    {
+        {
       "type_name": "楚剧",
       "type_id": "楚剧超清"
     },
     {
       "type_name": "歌仔戏",
       "type_id": "歌仔戏超清"
+    },
+    
+    {
+      "type_name": "黄梅戏",
+      "type_id": "黄梅戏超清"
+    },
+    {
+      "type_name": "评剧",
+      "type_id": "评剧超清"
+    },
+    {
+      "type_name": "豫剧",
+      "type_id": "豫剧超清"
     },
     {
       "type_name": "花鼓戏",
@@ -112,7 +153,10 @@
       "type_name": "绍剧",
       "type_id": "绍剧超清"
     },
-   
+    {
+      "type_name": "徽剧",
+      "type_id": "徽剧超清"
+    },
     {
       "type_name": "雁剧",
       "type_id": "雁剧超清"
@@ -125,7 +169,10 @@
       "type_name": "秦腔",
       "type_id": "秦腔超清"
     },
-   
+    {
+      "type_name": "武安平调",
+      "type_id": "武安平调超清"
+    },
     {
       "type_name": "二人台",
       "type_id": "二人台超清"
@@ -134,7 +181,10 @@
       "type_name": "吉剧",
       "type_id": "吉剧超清"
     },
-    
+    {
+      "type_name": "高腔",
+      "type_id": "高腔超清"
+    }
   ],
    "cookie": "innersign=0;buvid3=2E536ADC-CD6D-46AB-A9FF-904395151EE369713infoc;b_nut=1669016569;i-wanna-go-back=-1;b_ut=7;_uuid=761F7F106-C575-884D-6C10A-92BC10A10D10FBC68934infoc;buvid4=5B25B999-AE15-E09A-A0CC-3661981B71BF70255-122112115-JOyWSaNZfI2kZmT1KYmcQA%3D%3D;fingerprint=6d9ef93c89a567d22b6a9c4104e6cc50;buvid_fp_plain=undefined;buvid_fp=6d9ef93c89a567d22b6a9c4104e6cc50;SESSDATA=2d6f63c8%2C1684568607%2C19eb6%2Ab1;bili_jct=21d538b01566c26afc81ff68c2ac7dca;DedeUserID=3493083203242585;DedeUserID__ckMd5=7b86f3894ed7f8c0;sid=ng0uyvaz;b_lsid=97FB69A2_1869DE8E2C5;bg_view_44176=720227",
   "filter": {
