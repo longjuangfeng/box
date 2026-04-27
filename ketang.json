@@ -30,7 +30,7 @@
     },
     {
       "key": "小学",
-      "name": "小学课堂",
+      "name": "小学课程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -41,7 +41,7 @@
     },
     {
       "key": "初中",
-      "name": "初中课堂",
+      "name": "初中课程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -52,7 +52,7 @@
     },
     {
       "key": "高中",
-      "name": "高中课堂",
+      "name": "高中课程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
