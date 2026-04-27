@@ -8,8 +8,8 @@
   "sites": [
    
     {
-      "key": "学堂",
-      "name": "知识学堂",
+      "key": "课程",
+      "name": "知识课程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
