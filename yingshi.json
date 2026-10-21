@@ -11,7 +11,7 @@
   "sites": [
     {
       "key": "点我切源",
-      "name": "巢湖龙哥整理榜",
+      "name": "巢湖龙哥整理",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视.js"
